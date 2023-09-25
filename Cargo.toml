@@ -1,0 +1,9 @@
+[package]
+name = "programming-rust-book"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[workspace]
+members = ["chapter-2", "chapter-3"]
